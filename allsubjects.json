@@ -1,97 +1,52 @@
 {
-    "1":"Anshad",
-    "31444335-3135-5332-4E47-C85ACFA9B696":true,
-    "5":"Piyush",
-    "4C4C4544-0053-3510-8035-C2C04F563334":true,
-    "3":"Sreenath",
+    "1": "Anshad",
+    "31444335-3135-5332-4E47-C85ACFA9B696": true,
+    "5": "Piyush",
+    "4C4C4544-0053-3510-8035-C2C04F563334": true,
+    "3": "Sreenath",
     "C4BCE262-13F6-40EA-817D-C4C6E62ECF5F": false,
-    "4":"Aakash",
+    "4": "Aakash",
     "E19F225F-244D-11EE-8C92-BCECA00785D5": true,
-    "6":"Nishant",
-    "24092320-F630-02EF-42C0-30F6EF0242C4":true,
-    "9":"Aryan",
-    "33444335-3934-304A-4342-423039344435":false,
-    "14":"Ayush",
-    "6A775DC0-ADEC-11EE-A4F6-BCECA04A5373":false,
-    "15":"Arham",
-    "33444335-3131-5833-534B-4B5831314435":false,
-    "16":"Sujay",
-    "45BA6FFD-9D61-11EA-D4FA-88DA735F66FF":false,
-    "18":"Saptrishi",
-    "56F48BD9-3791-11EC-810D-7C8AE1ADD747":false,
-    "19":"Aniket",
-    "9546769A-58F0-1D4E-A024-F7A4B2A02C4D":false,
-    "20":"xyz",
-    "12217ECB-6A3D-416C-91F0-745D228B1163":false,
-    "21":"Harshit",
-    "2528E418-E1EC-6C46-AFD0-75E1A6C2D5D6":true,
-    "22":"Shivam",
-    "32444335-3830-344A-5434-343438304435":false,
-    "23":"Anurag",
-    "9811DCEB-5FB7-EA4B-A0AA-B7E0EC8822E1":false,
-    "24":"jatin",
-    "48:E7:DA:BC:1A:3A":true,
-    "25":"Aravind",
-    "774A0CFD-B2B9-4F77-B42B-E88088E9AB31":false,
-    "26":"Laskar",
-    "33D6262B-2DAC-A44C-B7EE-A702C8E6AFE7":false,
-    "27":"Mridul",
-    "D6BCC37C-531E-EF11-A4F6-30138BC28CEF":false,
-    "28":"Arman",
-    "09E93B41-C548-EF11-80F6-38A746040A5D":false,
-    "29":"Ayush_Singh",
-    "BFA17EE5-4577-AD45-A833-AA1E302742D8":false,
-    "30":"Amitoj",
-    "6078B98C-AA5B-A241-A36C-00E978870736":false,
-    "31":"altamas",
-    "3945DFBC-1215-11ED-80F2-9C2DCD2B639F":false,
-    "32":"Vaibhav",
-    "9546769A-58F0-1D4E-A024-F7A4B2A02C4D":true,
-    "33":"Satyam_Kumar",
-    "34444335-3232-4446-4A35-354432324435":true,
-    "34":"Shivesh",
-    "ECCB2A72-38AB-2147-8EC9-1A4E33A56755":true,
+    "6": "Nishant",
+    "24092320-F630-02EF-42C0-30F6EF0242C4": false,
+    "9": "Aryan",
+    "33444335-3934-304A-4342-423039344435": false,
+    "14": "Ayush",
+    "6A775DC0-ADEC-11EE-A4F6-BCECA04A5373": false,
+    "15": "Arham",
+    "33444335-3131-5833-534B-4B5831314435": false,
+    "16": "Sujay",
+    "45BA6FFD-9D61-11EA-D4FA-88DA735F66FF": false,
+    "18": "Saptrishi",
+    "56F48BD9-3791-11EC-810D-7C8AE1ADD747": false,
+    "19": "Aniket",
+    "9546769A-58F0-1D4E-A024-F7A4B2A02C4D": true,
+    "20": "xyz",
+    "12217ECB-6A3D-416C-91F0-745D228B1163": false,
+    "21": "Harshit",
+    "2528E418-E1EC-6C46-AFD0-75E1A6C2D5D6": true,
+    "22": "Shivam",
+    "32444335-3830-344A-5434-343438304435": false,
+    "23": "Anurag",
+    "9811DCEB-5FB7-EA4B-A0AA-B7E0EC8822E1": false,
+    "24": "jatin",
+    "48:E7:DA:BC:1A:3A": true,
+    "25": "Aravind",
+    "774A0CFD-B2B9-4F77-B42B-E88088E9AB31": false,
+    "26": "Laskar",
+    "33D6262B-2DAC-A44C-B7EE-A702C8E6AFE7": false,
+    "27": "Mridul",
+    "D6BCC37C-531E-EF11-A4F6-30138BC28CEF": false,
+    "28": "Arman",
+    "09E93B41-C548-EF11-80F6-38A746040A5D": false,
+    "29": "Ayush_Singh",
+    "BFA17EE5-4577-AD45-A833-AA1E302742D8": false,
+    "30": "Amitoj",
+    "6078B98C-AA5B-A241-A36C-00E978870736": false,
+    "31": "altamas",
+    "3945DFBC-1215-11ED-80F2-9C2DCD2B639F": false,
+    "32": "Vaibhav",
+    "33": false,
+    "34444335-3232-4446-4A35-354432324435": "true",
+    "34": false
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
