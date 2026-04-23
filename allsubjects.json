@@ -49,7 +49,7 @@
     "19": "Mridul",
     "D6BCC37C-531E-EF11-A4F6-30138BC28CEF": false,
     "20": "Arman",
-    "09E93B41-C548-EF11-80F6-38A746040A5D": true,
+    "09E93B41-C548-EF11-80F6-38A746040A5D": false,
     "21": "Ayush_Singh",
     "BFA17EE5-4577-AD45-A833-AA1E302742D8": false,
     "22": "Amitoj",
@@ -169,5 +169,7 @@
     "451BF7B3-A803-4A54-80D3-FC5CEEA37170": true,
     "78": "Isha",
     "78_limit": 50,
-    "305B35CC-33C2-11B2-A85C-98E4FEEE86FC": true
+    "305B35CC-33C2-11B2-A85C-98E4FEEE86FC": true,
+    "79": "Vansh",
+    "01F5BF5F-B5FE-EE11-80F2-40C2BAF6A087": true
 }
