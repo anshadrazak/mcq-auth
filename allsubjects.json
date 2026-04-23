@@ -36,7 +36,7 @@
     "15": "Anurag",
     "9811DCEB-5FB7-EA4B-A0AA-B7E0EC8822E1": false,
     "16": "jatin",
-    "48:E7:DA:BC:1A:3A": false,
+    "48:E7:DA:BC:1A:3A": true,
     "17": "Aravind",
     "774A0CFD-B2B9-4F77-B42B-E88088E9AB31": true,
     "18": "Laskar",
@@ -132,10 +132,10 @@
     "62": "Ayan ",
     "62_reset": 1,
     "F8944546-50B5-11EB-80EB-8C8CAA857E45": true,
-"63":"abcd",
-"393713AF-55F4-2549-90F4-142F649D6EE7":true,
-    "64":"Harshit",
-    "2528E418-E1EC-6C46-AFD0-75E1A6C2D5D6":true,
-    "65":"Aniket",
-    "9546769A-58F0-1D4E-A024-F7A4B2A02C4D": true 
+    "63": "abcd",
+    "393713AF-55F4-2549-90F4-142F649D6EE7": true,
+    "64": "Harshit",
+    "2528E418-E1EC-6C46-AFD0-75E1A6C2D5D6": true,
+    "65": "Aniket",
+    "9546769A-58F0-1D4E-A024-F7A4B2A02C4D": true
 }
