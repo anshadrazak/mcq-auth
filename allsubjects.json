@@ -23,6 +23,7 @@
     "7_reset": 1,
     "6A775DC0-ADEC-11EE-A4F6-BCECA04A5373": true,
     "8": "Arham",
+    "8_limit": 50,
     "33444335-3131-5833-534B-4B5831314435": true,
     "9": "Sujay",
     "45BA6FFD-9D61-11EA-D4FA-88DA735F66FF": false,
@@ -166,5 +167,6 @@
     "77": "Satyam",
     "451BF7B3-A803-4A54-80D3-FC5CEEA37170": true,
     "78": "Isha",
+    "78_limit": 50,
     "305B35CC-33C2-11B2-A85C-98E4FEEE86FC": true
 }
