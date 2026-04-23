@@ -106,7 +106,8 @@
     "47": "Binayak",
     "34444335-3532-3537-304A-28C5C839D8BE": false,
     "48": "Rajveer",
-    "B98424CA-D536-11EE-A4F6-40C2BA3C7CBC": false,
+    "48_reset": 1,
+    "B98424CA-D536-11EE-A4F6-40C2BA3C7CBC": true,
     "49": "Modhak",
     "AC8118E7-3B58-11EF-A4F7-40C2BA5D3423": false,
     "50": "Mandeep",
@@ -172,8 +173,6 @@
     "305B35CC-33C2-11B2-A85C-98E4FEEE86FC": true,
     "79": "Vansh",
     "01F5BF5F-B5FE-EE11-80F2-40C2BAF6A087": true,
-    "80": "Rajveer",
-    "B98424CA-D536-11EE-A4F6-40C2BA3C7CBC": true,
-    "81": "Shivom",
+    "80": "Shivom",
     "EF6EBEE2-E358-11EE-A4F6-40C2BA414B6F": true
 }
