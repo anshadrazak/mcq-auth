@@ -34,7 +34,8 @@
     "10_reset":1,
     "56F48BD9-3791-11EC-810D-7C8AE1ADD747": true,
     "11": "Aniket",
-    "9546769A-58F0-1D4E-A024-F7A4B2A02C4D": false,
+    "11_reset":1,
+    "9546769A-58F0-1D4E-A024-F7A4B2A02C4D": true,
     "12": "xyz",
     "12217ECB-6A3D-416C-91F0-745D228B1163": false,
     "13": "Harshit",
@@ -181,7 +182,8 @@
     "76": "tejaa",
     "4C4C4544-004B-3410-804A-B6C04F523334": false,
     "77": "Satyam",
-    "451BF7B3-A803-4A54-80D3-FC5CEEA37170": false,
+    "77_reset": 1,
+    "451BF7B3-A803-4A54-80D3-FC5CEEA37170": true,
     "78": "Isha",
     "78_limit": 50,
     "305B35CC-33C2-11B2-A85C-98E4FEEE86FC": false,
@@ -203,5 +205,8 @@
     "86":"Bhavesh",
     "9E5B1451-E93F-11EC-80F2-6C2408B443DD": true,
     "87":"Utkarsh",
-    "4C4C4544-005A-3310-8048-B1C04F4C5833":true
+    "4C4C4544-005A-3310-8048-B1C04F4C5833":true,
+    "88":"Aryan",
+    "32444335-3131-5144-3137-375131314435":true,
+    
 }
