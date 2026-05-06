@@ -28,7 +28,8 @@
     "8_reset": 1,
     "33444335-3131-5833-534B-4B5831314435": true,
     "9": "Sujay",
-    "45BA6FFD-9D61-11EA-D4FA-88DA735F66FF": false,
+    "9_reset":1,
+    "45BA6FFD-9D61-11EA-D4FA-88DA735F66FF": true,
     "10": "Saptrishi",
     "10_reset":1,
     "56F48BD9-3791-11EC-810D-7C8AE1ADD747": true,
@@ -164,7 +165,7 @@
     "69": "Nitish",
     "EFE8FBB5-965B-E541-AFC9-A220DB6CD672": false,
     "70": "Sujay",
-    "70_reset": 1,
+    "70_reset": 2,
     "45BA6FFD-9D61-11EA-D4FA-88DA735F66FF": true,
     "71": "Aditya uday",
     "82C63F05-60BA-9C40-B8AD-F055987B1FA4": false,
@@ -173,7 +174,8 @@
     "73": "Asad",
     "233C281E-0376-11EF-A4F6-40C2BA4CA9A7": false,
     "74": "Hari",
-    "34444335-3332-4C4B-354D-4D4C33324435": false,
+    "74_reset":1,
+    "34444335-3332-4C4B-354D-4D4C33324435": true,
     "75": "saptrishi",
     "9811DCEB-5FB7-EA4B-A0AA-B7E0EC8822E1": false,
     "76": "tejaa",
@@ -199,5 +201,7 @@
     "85_reset":1,
     "F73B7EB5-2071-470F-92A8-745D221C0C42":true,
     "86":"Bhavesh",
-    "9E5B1451-E93F-11EC-80F2-6C2408B443DD": true
+    "9E5B1451-E93F-11EC-80F2-6C2408B443DD": true,
+    "87":"Utkarsh",
+    "4C4C4544-005A-3310-8048-B1C04F4C5833":true
 }
