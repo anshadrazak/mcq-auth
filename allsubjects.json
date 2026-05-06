@@ -147,8 +147,8 @@
     "61": "Nikhil",
     "AACE31AF-ABE3-4302-8993-0206A0DF5B2C": false,
     "62": "Ayan ",
-    "62_reset": 1,
-    "F8944546-50B5-11EB-80EB-8C8CAA857E45": false,
+    "62_reset": 2,
+    "F8944546-50B5-11EB-80EB-8C8CAA857E45": true,
     "63": "abcd",
     "393713AF-55F4-2549-90F4-142F649D6EE7": false,
     "64": "Harshit",
@@ -197,5 +197,7 @@
     "47E11FB7-2506-11EE-8C92-BCECA007BB0F":true,
     "85": "Tanish",
     "85_reset":1,
-    "F73B7EB5-2071-470F-92A8-745D221C0C42":true
+    "F73B7EB5-2071-470F-92A8-745D221C0C42":true,
+    "86":"Bhavesh",
+    "9E5B1451-E93F-11EC-80F2-6C2408B443DD": true
 }
