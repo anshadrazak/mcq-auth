@@ -181,8 +181,8 @@
     "76": "tejaa",
     "4C4C4544-004B-3410-804A-B6C04F523334": false,
     "77": "Satyam",
-    "77_reset": 1,
-    "451BF7B3-A803-4A54-80D3-FC5CEEA37170": false,
+    "77_reset": 2,
+    "451BF7B3-A803-4A54-80D3-FC5CEEA37170": true,
     "78": "Isha",
     "78_limit": 50,
     "305B35CC-33C2-11B2-A85C-98E4FEEE86FC": false,
@@ -191,7 +191,8 @@
     "80": "Shivom",
     "EF6EBEE2-E358-11EE-A4F6-40C2BA414B6F": true,
     "81": "RamKrishna",
-    "2D38B519-68CC-4A58-9F58-26B77641FF6F": false,
+    "81_reset": 1,
+    "2D38B519-68CC-4A58-9F58-26B77641FF6F": true,
     "82": "Altamas",
     "3945DFBC-1215-11ED-80F2-9C2DCD2B639F": false,
     "83": "Nik Yadav",
@@ -209,6 +210,8 @@
     "88":"Aryan",
     "32444335-3131-5144-3137-375131314435": false,
     "89":"Vishal ",
-    "4C4C4544-0053-3610-8030-B5C04F504832": false
+    "4C4C4544-0053-3610-8030-B5C04F504832": false,
+    "90":"Prabhat",
+    "7D454064-A43C-3143-A4AE-1BC33124C0A0": true
     
 }
