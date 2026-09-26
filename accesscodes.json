@@ -1,3 +1,8 @@
 {
-  "GLOBAL_LIMIT": 100
+  "GLOBAL_LIMIT": 100,
+  "R9G6ZM": {
+    "name": "Anshad",
+    "limit": 100,
+    "used": 0
+  }
 }
