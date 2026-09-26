@@ -1,3 +1,8 @@
 {
-  "GLOBAL_LIMIT": 100
+  "GLOBAL_LIMIT": 100,
+  "B66CJ6": {
+    "name": "Anshad Razak",
+    "limit": 10,
+    "used": 0
+  }
 }
