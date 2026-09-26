@@ -1,1 +1,8 @@
-
+{
+  "GLOBAL_LIMIT": 100,
+  "TESTCODE1": {
+    "name": "Test User",
+    "limit": 50,
+    "used": 0
+  }
+}
