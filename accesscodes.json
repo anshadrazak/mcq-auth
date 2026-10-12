@@ -9,5 +9,21 @@
     "name": "Kushal",
     "limit": 25,
     "used": 0
+  },
+  "62B": {
+    "name": "KushalF1",
+    "limit": 10,
+    "used": 0
+  },
+  "BC4": {
+    "name": "KushalF2",
+    "limit": 10,
+    "used": 0
+  },
+  "V8J": {
+    "name": "KushalF3",
+    "limit": 10,
+    "used": 0
   }
+  
 }
