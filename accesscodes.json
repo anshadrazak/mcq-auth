@@ -1,28 +1,3 @@
 {
-  "GLOBAL_LIMIT": 100,
-  "A7J": {
-    "name": "Anshad",
-    "limit": 100,
-    "used": 0
-  },
-  "37D": {
-    "name": "Kushal",
-    "limit": 25,
-    "used": 2
-  },
-  "62B": {
-    "name": "KushalF1",
-    "limit": 10,
-    "used": 0
-  },
-  "BC4": {
-    "name": "KushalF2",
-    "limit": 10,
-    "used": 1
-  },
-  "V8J": {
-    "name": "KushalF3",
-    "limit": 10,
-    "used": 0
-  }
+  "GLOBAL_LIMIT": 100
 }
