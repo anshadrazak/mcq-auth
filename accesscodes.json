@@ -20,11 +20,6 @@
     "limit": 40,
     "used": 0
   },
-  "0US": {
-    "name": "Aryan",
-    "limit": 40,
-    "used": 0
-  },
   "1B4": {
     "name": "Ayush",
     "limit": 40,
@@ -32,6 +27,11 @@
   },
   "Y9E": {
     "name": "Harshit",
+    "limit": 40,
+    "used": 0
+  },
+  "HXY": {
+    "name": "Aryan",
     "limit": 40,
     "used": 0
   }
