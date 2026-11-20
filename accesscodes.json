@@ -4,5 +4,35 @@
     "name": "Anshad",
     "limit": 100,
     "used": 23
+  },
+  "GS3": {
+    "name": "Aakash",
+    "limit": 40,
+    "used": 0
+  },
+  "9WC": {
+    "name": "Shivam",
+    "limit": 40,
+    "used": 0
+  },
+  "I6X": {
+    "name": "Piyush",
+    "limit": 40,
+    "used": 0
+  },
+  "0US": {
+    "name": "Aryan",
+    "limit": 40,
+    "used": 0
+  },
+  "1B4": {
+    "name": "Ayush",
+    "limit": 40,
+    "used": 0
+  },
+  "Y9E": {
+    "name": "Harshit",
+    "limit": 40,
+    "used": 0
   }
 }
