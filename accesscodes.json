@@ -39,5 +39,10 @@
     "name": "Nikhil",
     "limit": 40,
     "used": 0
+  },
+  "GTR": {
+    "name": "Jivraj",
+    "limit": 40,
+    "used": 0
   }
 }
